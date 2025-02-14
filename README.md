@@ -1,4 +1,4 @@
-# Coco500
+# CocoPi
  Raspberry Pi 500 and 5 My Modern Supper Color Computers
 
 The Raspberry Pi reminds me of some of the 8bit computers I had so much fun with. To name a few Commadore 128, Color Computer 3, and maybe not so much the TRS80 or BBC micro. There really nothing alike other than there so much fun to play and learn things about computers. The Raspberry Pi does have so much more to offer. The Raspberry Pi is faster, have multiple OS. On those 8bit micros it was very hard to make your own extend circuits where you could do them in minutes on a Raspberry. What I am saying, it is more fun and easer to play and learn with a Raspberry Pi. Just like my Coco3 I went with three versions 1, 2, 3 for Color Computer and 2, 3, and 4 with the Raspberry Pi. I have completed way more projects with the Raspberry Pi than with the old 8bits that had. NAS, desktops, Development Apps with Python, C++, and other programming languages.
