@@ -1,4 +1,4 @@
-I.  Setting Up Your Raspberry Pi 500
+I.  Setting Up Your Raspberry Pi 5
   A. Install Raspbian OS:
     1. Download the latest Raspbian OS from the official Raspberry Pi website.
     2. Use a tool like Balena Etcher to flash the OS onto a microSD card.
