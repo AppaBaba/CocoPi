@@ -12,3 +12,6 @@ I.  Setting Up Your Raspberry Pi 5
     2. sudo apt upgrade
     3. sudo apt dist-upgrade
     4. sudo reboot
+  D. Editors:
+    1. remove Geany and Thonny
+    2. install IDLE3, Visual Studio Code, and Mu
