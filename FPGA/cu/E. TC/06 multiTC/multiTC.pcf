@@ -1,0 +1,68 @@
+set_io clk    P7
+set_io notrst P8
+
+# leds
+set_io led[0] J11
+set_io led[1] K11
+set_io led[2] K12
+set_io led[3] K14
+set_io led[4] L12
+set_io led[5] L14
+set_io led[6] M12
+set_io led[7] N14
+
+# io leds
+set_io ioled0[0] G14 # -> IOR_141 -> BB21 -> L1
+set_io ioled0[1] F14 # -> IOR_140 -> BB20 -> L2
+set_io ioled0[2] E12 # -> IOR_147 -> BB18 -> L3
+set_io ioled0[3] E14 # -> IOR_148 -> BB17 -> L4
+set_io ioled0[4] D14 # -> IOR_152 -> BB15 -> L5
+set_io ioled0[5] C14 # -> IOR_154 -> BB14 -> L6
+set_io ioled0[6] B14 # -> IOR_161 -> BB12 -> L7
+set_io ioled0[7] A12 # -> IOR_170 -> BB11 -> L8
+
+set_io ioled1[0] C10 # -> IOR_186 -> BB9  -> L9
+set_io ioled1[1] C9  # -> IOR_190 -> BB8  -> L10
+set_io ioled1[2] A11 # -> IOR_179 -> BB6  -> L11
+set_io ioled1[3] A10 # -> IOR_181 -> BB5  -> L12
+set_io ioled1[4] A7  # -> IOR_197 -> BB3  -> L13
+set_io ioled1[5] A6  # -> IOR_198 -> BB2  -> L14
+set_io ioled1[6] A4  # -> IOT_219 -> AB24 -> L15
+set_io ioled1[7] A3  # -> IOT_222 -> AB23 -> L16
+
+set_io ioled2[0] A2  # -> IOT_223 -> AB21 -> L17
+set_io ioled2[1] A1  # -> IOT_225 -> AB20 -> L18
+set_io ioled2[2] C3  # -> IOL_4_P -> AB18 -> L19
+set_io ioled2[3] D3  # -> IOL_4_N -> AB17 -> L20
+set_io ioled2[4] B1  # -> IOL_2_P -> AB15 -> L21
+set_io ioled2[5] C1  # -> IOL_2_N -> AB14 -> L22
+set_io ioled2[6] D1  # -> IOL_5_P -> AB12 -> L23
+set_io ioled2[7] E1  # -> IOL_5_N -> AB11 -> L24
+
+# io dip switches
+set_io dipsw0[0] G12 # -> IOR_129 -> BB30 -> DIP8
+set_io dipsw0[1] F12 # -> IOR_137 -> BB31 -> DIP7
+set_io dipsw0[2] F11 # -> IOR_144 -> BB33 -> DIP6
+set_io dipsw0[3] E11 # -> IOR_146 -> BB34 -> DIP5
+set_io dipsw0[4] D12 # -> IOR_160 -> BB36 -> DIP4
+set_io dipsw0[5] D11 # -> IOT_178 -> BB37 -> DIP3
+set_io dipsw0[6] C12 # -> IOT_172 -> BB39 -> DIP2
+set_io dipsw0[7] C11 # -> IOT_174 -> BB40 -> DIP1
+
+set_io dipsw1[0] D10 # -> IOT_177 -> BB42 -> DIP16
+set_io dipsw1[1] D9 # -> IOT_188 -> BB43 -> DIP15
+set_io dipsw1[2] D7 # -> IOT_202 -> BB45 -> DIP14
+set_io dipsw1[3] D6 # -> IOT_207 -> BB46 -> DIP13
+set_io dipsw1[4] C7 # -> IOT_200 -> BB48 -> DIP12
+set_io dipsw1[5] C6 # -> IOT_206 -> BB49 -> DIP11
+set_io dipsw1[6] A5 # -> IOT_208 -> AB27 -> DIP10
+set_io dipsw1[7] C5 # -> IOT_212 -> AB28 -> DIP9
+
+set_io dipsw2[0] D5 # -> IOT_211 -> AB30 -> DIP24
+set_io dipsw2[1] C4 # -> IOT_221 -> AB31 -> DIP23
+set_io dipsw2[2] D4 # -> IOL_8_P -> AB33 -> DIP22
+set_io dipsw2[3] E4 # -> IOL_8_N -> AB34 -> DIP21
+set_io dipsw2[4] F4 # -> IOL_9_P -> AB36 -> DIP20
+set_io dipsw2[5] F3 # -> IOL_9_N -> AB37 -> DIP19
+set_io dipsw2[6] H4 # -> IOL_10_P -> AB39 -> DIP18
+set_io dipsw2[7] G4 # -> IOL_10_N -> AB40 -> DIP17

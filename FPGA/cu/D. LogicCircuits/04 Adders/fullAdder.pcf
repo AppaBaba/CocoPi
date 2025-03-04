@@ -1,0 +1,10 @@
+
+#    LEDs
+set_io  sum   J11
+set_io  carry K11
+
+
+# dip switches
+set_io a      G12
+set_io b      F12
+set_io cin    F11

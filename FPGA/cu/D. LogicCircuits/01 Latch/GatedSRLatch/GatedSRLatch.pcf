@@ -1,0 +1,6 @@
+
+#set_io    s J11
+#set_io    r K11
+#set_io    e K12
+set_io    q K14
+set_io notq L12

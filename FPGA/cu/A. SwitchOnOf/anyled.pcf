@@ -1,0 +1,10 @@
+# ------------ LEDs -----------------------------------------------------------
+set_io --warn-no-port led0 J11  # output
+set_io --warn-no-port led1 K11  # output
+set_io --warn-no-port led2 K12  # output
+set_io --warn-no-port led3 K14  # output
+set_io --warn-no-port led4 L12  # output
+set_io --warn-no-port led5 L14  # output
+set_io --warn-no-port led6 M12  # output
+set_io --warn-no-port led7 N14  # output
+

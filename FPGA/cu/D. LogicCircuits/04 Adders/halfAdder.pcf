@@ -1,0 +1,10 @@
+
+#    LEDs
+set_io  s J11
+set_io  c K11
+
+
+# dip switches
+set_io a G12
+set_io b F12
+

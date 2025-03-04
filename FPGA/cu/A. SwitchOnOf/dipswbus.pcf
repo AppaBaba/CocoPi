@@ -1,0 +1,19 @@
+# ------------ LEDs -----------------------------------------------------------
+set_io   led[0] J11
+set_io   led[1] K11
+set_io   led[2] K12
+set_io   led[3] K14
+set_io   led[4] L12
+set_io   led[5] L14
+set_io   led[6] M12
+set_io   led[7] N14
+
+set_io dipsw[0] G12
+set_io dipsw[1] F12
+set_io dipsw[2] F11
+set_io dipsw[3] E11
+set_io dipsw[4] D12
+set_io dipsw[5] D11
+set_io dipsw[6] C12
+set_io dipsw[7] C11
+

@@ -1,0 +1,20 @@
+# ------------ LEDs -------------------------------------------------------
+set_io out[0] J11
+set_io out[1] K11
+set_io out[2] K12
+set_io out[3] K14
+set_io out[4] L12
+set_io out[5] L14
+set_io out[6] M12
+set_io out[7] N14
+
+set_io in[7]  A12
+set_io in[6]  B14
+set_io in[5]  C14
+set_io in[4]  D14
+set_io in[3]  E14
+set_io in[2]  E12
+set_io in[1]  F14
+set_io in[0]  G14
+
+

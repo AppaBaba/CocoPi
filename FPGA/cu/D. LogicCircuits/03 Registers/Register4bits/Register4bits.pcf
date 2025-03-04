@@ -1,0 +1,18 @@
+#    System 100 MHz clock
+set_io clk P7    # 100MHz clock
+
+set_io notreset P8  # reset button
+
+#    LEDs
+set_io  Q[0] J11
+set_io  Q[1] K11
+set_io  Q[2] K12
+set_io  Q[3] K14
+
+# dip switches
+set_io D[0] G12
+set_io D[1] F12
+set_io D[2] F11
+set_io D[3] E11
+
+set_io enable C11

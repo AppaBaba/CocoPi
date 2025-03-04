@@ -1,0 +1,13 @@
+# ------------ LEDs -----------------------------------------------------------
+set_io --warn-no-port LED[0] J11  # output
+set_io --warn-no-port LED[1] K11  # output
+set_io --warn-no-port LED[2] K12  # output
+set_io --warn-no-port LED[3] K14  # output
+set_io --warn-no-port LED[4] L12  # output
+set_io --warn-no-port LED[5] L14  # output
+set_io --warn-no-port LED[6] M12  # output
+set_io --warn-no-port LED[7] N14  # output
+
+# ------------ System 100 MHz clock --------------------------------------------
+set_io --warn-no-port CLK P7  # 100MHz clock
+
