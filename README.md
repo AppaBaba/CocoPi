@@ -5,6 +5,6 @@ The Raspberry Pi reminds me of some of the 8bit computers I had so much fun with
 
 I am ready for Raspberry 5. So, It has been ordered. I plan on using the 5 to replace some of the functions my main PC is doing, such as programming other microcontrollers. Also, FPGA synthesizing. Because it is replacing a PC, the extra speed won’t hurt. Some of the microcontrollers will be BBC micro: bit, ESP32, Raspberry Pi Pico. I will use Raspberry Pi 5 as my main machine. I will use my Raspberry Pi 4 as a NAS to backup projects running on Raspberry Pi 5.
 
-My Raspberry Pi 4 is set up for programming BBC Micro: Bit and doing FPGA synthesizing.  These will be cut over to my Raspberry Pi 5 or 500.  I am also testing Visual Studio Code on my Raspberry Pi 4. VSC will probably make a more professional development editor on a Raspberry Pi 5.
+My Raspberry Pi 4 is set up for programming BBC Micro: Bit and doing FPGA synthesizing.  These will be cut over to my Raspberry Pi 5.  I am also testing Visual Studio Code on my Raspberry Pi 4. VSC will probably make a more professional development editor on a Raspberry Pi 5.
 Just want to show that My Raspberry Pi 5 makes a great Modern Supper Color Computer. I will start with loading the stander OS for Raspberry Pi
 
