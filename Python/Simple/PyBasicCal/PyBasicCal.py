@@ -1,7 +1,7 @@
 # Simple Calculator Python Program
-# Pyyhon 3.9 with IDLE
+# Pyyhon 3.11 with IDLE
 # Code can be used Anaconda and Spyder
-# Runs on Mac and PC
+# Runs on Mac , PC and RP5
 
 # Add two numbers 
 def add(num1, num2): 
