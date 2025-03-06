@@ -1,5 +1,5 @@
-# Python 3.9 program for plotting parametric
-# Runs on both Mac and PC with IDLE
+# Python 3.11 program for plotting parametric
+# Runs on both Mac, PC and RP5 with IDLE
 # Source code can be used for Anaconda and Spyder
 
 from mpl_toolkits.mplot3d import Axes3D

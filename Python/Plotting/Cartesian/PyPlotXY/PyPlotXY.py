@@ -1,5 +1,5 @@
-# Python 3.9 program for plotting Line
-# Runs on both Mac and PC with IDLE
+# Python 3.11 program for plotting Line
+# Runs on both Mac, PC and RP5 with IDLE
 # Source code can be used for Anacoda and Spyder
 
 from pylab import plot, show
