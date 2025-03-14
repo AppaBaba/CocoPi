@@ -1,3 +1,3 @@
-gcc -o hithere hithere.c
+mcs CSConColor.cs
 
-./hithere
+mono CSConColor.exe
