@@ -31,10 +31,17 @@ sqlite> select * from student;
 2|Bob
 
 sqlite> insert into student values(3,'Sue');
+
 sqlite> insert into student values(4,'Fred');
+
 sqlite> select * from student;
+
 1|Dan
+
 2|Bob
+
 3|Sue
+
 4|Fred
+
 sqlite> 
