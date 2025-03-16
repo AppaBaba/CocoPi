@@ -1,6 +1,9 @@
 .archive ...             Manage SQL archives
+
 .auth ON|OFF             Show authorizer callbacks
+
 .backup ?DB? FILE        Backup DB (default "main") to FILE
+
 .bail on|off             Stop after hitting an error.  Default OFF
 .binary on|off           Turn binary output on or off.  Default OFF
 .cd DIRECTORY            Change the working directory to DIRECTORY
