@@ -6,5 +6,5 @@ websites you use every day, like YouTube and Wikipedia. It is typical to be sear
 very large databases when you browse the web.
 
 Databases do not have to always be huge it can be also small for a small group of people or 
-just for searching on the computer. While it would be very easy jut to use the LibreOffice 
+just for searching on the computer. While it would be very easy just to use the LibreOffice 
 Database that is already install on this raspberry pi 5, there will be some other examples shown. 
