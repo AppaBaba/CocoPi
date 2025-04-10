@@ -113,7 +113,11 @@ default OS and add normal debian desktop to it. So, investigated it and the answ
 
 - sudo pip3 uninstall matplotlib
 
+## More Applications
 
+### Menu Editor
+
+- sudo apt install alacarte
 
 ### Mathematica:
 - sudo apt install wolfram-engineEditors
