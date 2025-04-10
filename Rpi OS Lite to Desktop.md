@@ -115,6 +115,10 @@ default OS and add normal debian desktop to it. So, investigated it and the answ
 
 ## More Applications
 
+### Bookshelp
+
+- sudo apt install rp-bookshelf
+
 ### Menu Editor
 
 - sudo apt install alacarte
