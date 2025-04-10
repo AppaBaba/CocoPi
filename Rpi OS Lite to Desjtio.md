@@ -73,6 +73,10 @@ default OS and add normal debian desktop to it. So, investigated it and the answ
 
 -     sudo apt install gnome-software
 
+### Recommended Software
+
+- sudo apt install rp-prefapps
+
 ## Browser
 
 ### Chromium:
