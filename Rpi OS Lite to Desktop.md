@@ -115,7 +115,7 @@ default OS and add normal debian desktop to it. So, investigated it and the answ
 
 ## More Applications
 
-### Bookshelp
+### Bookshelf
 
 - sudo apt install rp-bookshelf
 
