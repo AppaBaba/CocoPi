@@ -1,3 +1,5 @@
+# Setup Node
+
 1. Update the Raspberry Pi OS:
 
    sudo apt update
